@@ -210,7 +210,7 @@ ML system predicting medical insurance charges from age, BMI, smoking status and
 
 <div align="center">
 <a href="https://insurance-claim-prediction-hjne3ngt7kim52ym9gxxb4.streamlit.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE%20DEMO-%2300C853.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 </div>
 
