@@ -5,20 +5,26 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C8FFF&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+AI+Engineer;Data+Science+Intern;Data+Analytics+Enthusiast;Building+AI+Systems+for+Real+Impact;Healthcare+AI+%7C+Predictive+Modeling;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C8FFF&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+AI+Engineer;Data+Science+Enthusiast;Computer+Vision+Engineer;Healthcare+AI;Building+Intelligent+Systems;Open+Source+Contributor;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<i>Building production-ready AI systems that transform research into real-world solutions.</i>
 
 <br/><br/>
 
+<!-- Contact buttons — update links if your handles change -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shayan-portfolio-eight.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shayan-ahmed-05b847281)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shayan_isalive)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shayan.8401@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shayan-portfolio-eight.vercel.app/)
 [![LeetCode Solutions](https://img.shields.io/badge/LeetCode%20Solutions-1F1F1F.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShayan8401/leetcode-solutions)
 
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=MuhammadShayan8401&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
+![GitHub followers](https://img.shields.io/github/followers/MuhammadShayan8401?label=Followers&style=social)
 
 </div>
 
@@ -28,286 +34,372 @@
 
 ```python
 class Shayan:
-    name       = "Muhammad Shayan Ahmed"
-    university = "SSUET — Software Engineering '27"
-    location   = "Karachi, Pakistan"
-    focus      = ["Machine Learning", "Data Analytics", "Healthcare AI"]
-    learning   = ["MLOps", "Model Optimization", "Deployment Workflows"]
-    fun_fact   = "I turn research concepts into real-world AI with clean, reproducible code"
+    def __init__(self):
+        self.name       = "Muhammad Shayan Ahmed"
+        self.role       = "Machine Learning & AI Engineer"
+        self.university = "Sir Syed University of Engineering & Technology"
+        self.degree     = "B.E. Software Engineering, Class of 2027"
+        self.location   = "Karachi, Pakistan"
+        self.focus      = ["Machine Learning", "Deep Learning", "Computer Vision", "Generative AI", "Healthcare AI"]
+        self.learning   = ["LLMs", "LangChain", "AI Agents", "MLOps", "Cloud Deployment"]
+
+    def philosophy(self):
+        return "Turn research concepts into real-world AI with clean, reproducible code."
+
+shayan = Shayan()
 ```
 
-<br/>
-
-<table align="center">
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
-<div align="center">
+**🎓 Currently**
+- Software Engineering student at **SSUET**, Karachi (Batch 2023F)
+- Deep-diving into **Healthcare AI**, **Computer Vision**, and **Generative AI**
+- Working through a final-year focus on applied **Deep Learning**
 
-## 💡 Interests
-
-</div>
-
-<div>
-
-- 🤖 <b>Applied Machine Learning</b>  
-  <sub>Building intelligent systems that learn from data</sub>
-
-- 🏥 <b>Healthcare AI & Behavioral Analytics</b>  
-  <sub>AI for medical insights and human behavior analysis</sub>
-
-- 📈 <b>Predictive Modeling</b>  
-  <sub>Forecasting trends using statistical & ML models</sub>
-
-- 🧠 <b>Data-Driven Decision Systems</b>  
-  <sub>Turning raw data into actionable insights</sub>
-
-- 🔁 <b>End-to-End ML Pipelines</b>  
-  <sub>From data collection → training → deployment</sub>
-
-</div>
+**🔬 What I Do**
+- Design and train **deep learning models** for real diagnostic and creative problems
+- Build **end-to-end pipelines** — from data ingestion to deployed product
+- Ship **full-stack AI applications** with production-grade UI/UX
 
 </td>
-
 <td width="50%" valign="top">
 
-<div align="center">
+**🧭 How I Work**
+- Research-first mindset, engineering-grade execution
+- Strong belief in reproducibility and clean architecture
+- Comfortable owning a project from model to dashboard to deployment
 
-## 🌱 Learning & Collaboration
-
-</div>
-
-<div>
-
-### 🌱 Currently Learning
-- Advanced ML algorithms & model optimization  
-- Model evaluation & validation techniques  
-- MLOps and ML deployment workflows  
-
----
-
-### 🤝 Open to Collaborate On
-- AI / ML research projects  
-- Healthcare & environmental analytics  
-- Real-world data science applications  
-
-</div>
+**🤝 Let's Connect**
+- Always open to collaborating on ML/AI research
+- Interested in healthcare analytics and predictive systems
+- DMs open for interesting problems
 
 </td>
-
 </tr>
 </table>
 
+---
+
+## 🧠 AI Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Machine Learning**
+Building and tuning classical ML models — regression, classification, and ensemble methods — for real-world predictive tasks.
+
+**🧬 Deep Learning**
+Designing CNNs, transformers, and custom architectures using PyTorch and TensorFlow for vision and structured-data problems.
+
+**👁️ Computer Vision**
+Semantic segmentation, depth estimation, and image classification using models like SegFormer, MiDaS, and custom CNNs.
+
+**🎨 Generative AI**
+Working with diffusion models (Stable Diffusion) and image-to-image pipelines to generate realistic, controllable outputs.
+
+**📈 Predictive Analytics**
+Turning historical data into forecasts and risk scores using regression and tree-based models.
+
+**📊 Data Analytics**
+Exploratory analysis, feature engineering, and dashboarding to surface insights that drive decisions.
+
+</td>
+<td width="50%" valign="top">
+
+**🏥 Healthcare AI**
+Applying deep learning to medical imaging — pneumonia detection, skin cancer classification — with a focus on clinical usability.
+
+**💬 LLMs**
+Exploring large language model integration, prompt design, and agentic workflows for applied product features.
+
+**📉 Data Visualization**
+Building interactive dashboards with Recharts, Plotly, and Streamlit to make model outputs interpretable.
+
+**🚀 Model Deployment**
+Serving models via FastAPI/Flask backends, containerizing with Docker, and shipping to platforms like Vercel and Streamlit Cloud.
+
+**⚙️ MLOps**
+Managing training reproducibility, versioning, and evaluation pipelines to keep models production-ready.
+
+**🛠️ Feature Engineering**
+Crafting and selecting the right signals from raw data to materially improve model performance.
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
+
 <table>
 <tr>
+<td width="100%">
 
-<td width="50%" valign="top">
+<h3 align="center">🏡 Aeterna AI Interior Designer &nbsp;<img src="https://img.shields.io/badge/⭐-Featured%20Project-6C8FFF?style=flat-square"/></h3>
 
-<h3 align="center">🧠 AI Pneumonia Detection (CNN)</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/SegFormer-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/MiDaS-6C8FFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stable%20Diffusion-38BDF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+</p>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Healthcare%20AI-00BCD4?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat-square&logoColor=white"/>
-</div>
+<p align="center">
+An end-to-end generative interior-design platform that transforms a photo of any room into a redesigned space. Combines <b>semantic segmentation</b> (SegFormer), <b>depth estimation</b> (MiDaS), and <b>Stable Diffusion img2img</b> generation behind a full FastAPI backend with JWT auth, MongoDB persistence, and a luxury editorial React UI.
+</p>
 
-<br/>
+<p align="center"><b>Highlights:</b> Empty-room generation pipeline &nbsp;•&nbsp; History & revisit system &nbsp;•&nbsp; User/admin dashboards &nbsp;•&nbsp; Async-safe preference ANN with five output heads</p>
 
-Deep learning CNN trained on chest X-rays to detect pneumonia with high accuracy. Includes image preprocessing, augmentation, confusion matrix visualization, and a local inference pipeline.
-
-<br/><br/>
-
-<b>Stack:</b> <code>Python</code> <code>TensorFlow/Keras</code> <code>OpenCV</code> <code>NumPy</code>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🏡 AI Interior Designer</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Generative%20AI-A78BFA?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Diffusion%20Models-6C8FFF?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Segmentation-38BDF8?style=flat-square&logoColor=white"/>
-</div>
-
-<br/>
-
-AI-powered interior design using SegFormer + MiDaS + Stable Diffusion for realistic room transformations with depth estimation and semantic segmentation.
-
-<br/><br/>
-
-<b>Stack:</b> <code>Python</code> <code>PyTorch</code> <code>Hugging Face</code> <code>Stable Diffusion</code>
-
-<br/><br/>
-
-<div align="center">
-<a href="https://ai-interior-designer-eurhnj66zzjm4zzhxuggkh.streamlit.app/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-%2300C853.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-</div>
+<p align="center">
+<a href="https://github.com/MuhammadShayan8401/Aeterna-AI-Interior-Designer"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://aeterna-ai-interior-designer.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 </td>
-
 </tr>
+</table>
 
+<br/>
+
+<table>
 <tr>
+<td width="50%" valign="top">
 
+<h3 align="center">🧠 AI Pneumonia Detection</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv"/>
+</p>
+
+<p align="center">
+A convolutional neural network trained on chest X-rays to detect pneumonia, later extended into a unified full-stack medical diagnostics dashboard with a second skin-cancer detection module (HAM10000).
+</p>
+
+<p align="center"><b>Highlights:</b> Image preprocessing & augmentation &nbsp;•&nbsp; Confusion matrix visualization &nbsp;•&nbsp; Local inference pipeline &nbsp;•&nbsp; Flask + React diagnostics dashboard</p>
+
+</td>
 <td width="50%" valign="top">
 
 <h3 align="center">📊 Interactive Business Dashboard</h3>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Data%20Analytics-34D399?style=flat-square&logoColor=white"/>
+<p align="center">
 <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
 
-<br/>
+<p align="center">
+A modern BI dashboard delivering real-time insights through dynamic KPI charts and interactive filters — built for fast, exploratory business analysis.
+</p>
 
-Modern BI dashboard with real-time insights, dynamic KPI charts, and interactive filters built with Streamlit and Plotly.
+<p align="center"><b>Highlights:</b> Real-time KPI cards &nbsp;•&nbsp; Interactive chart filters &nbsp;•&nbsp; Clean analytics-first UI</p>
 
-<br/><br/>
-
-<b>Stack:</b> <code>Python</code> <code>Streamlit</code> <code>Plotly</code> <code>Pandas</code>
-
-<br/><br/>
-
-<div align="center">
-<a href="https://muhammadshayan8401-interactive-business-dashboard-app-sj2opj.streamlit.app/" target="_blank">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-%2300C853.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-</div>
-
-<br/>
+<p align="center">
+<a href="https://muhammadshayan8401-interactive-business-dashboard-app-sj2opj.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+</p>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">💊 Insurance Claim Prediction</h3>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Predictive%20ML-F59E0B?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Regression-4479A1?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logoColor=white"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Regression-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+<p align="center">
+A predictive ML system estimating medical insurance charges from age, BMI, smoking status, and region, wrapped in an interactive Streamlit dashboard for instant what-if analysis.
+</p>
+
+<p align="center"><b>Highlights:</b> Feature engineering on demographic data &nbsp;•&nbsp; Regression model comparison &nbsp;•&nbsp; Interactive prediction UI</p>
+
+<p align="center">
+<a href="https://insurance-claim-prediction-hjne3ngt7kim52ym9gxxb4.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🦠 Disease Outbreak Predictor</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+<p align="center">
+A full-stack analytics application that models and predicts disease outbreak trends, pairing a Flask prediction API with a React analytics dashboard and persistent prediction history.
+</p>
+
+<p align="center"><b>Highlights:</b> Outbreak trend modeling &nbsp;•&nbsp; Analytics dashboard &nbsp;•&nbsp; Prediction history tracking with MongoDB</p>
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,js" />
+
+**AI / Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,threejs" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,vercel" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+
+
 
 <br/>
 
-ML system predicting medical insurance charges from age, BMI, smoking status and region with an interactive Streamlit dashboard.
-
-<br/><br/>
-
-<b>Stack:</b> <code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code> <code>Pandas</code>
-
-<br/><br/>
-
-<div align="center">
-<a href="https://insurance-claim-prediction-hjne3ngt7kim52ym9gxxb4.streamlit.app/" target="_blank">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-%2300C853.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-</div>
-
-</td>
-
-</tr>
-</table>
-</div>
-
----
-
-## 💻 Tech Stack
-
-**🧠 AI / Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-**📊 Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**🌐 Web & Backend**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
-**🛢 Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShayan8401&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
+<br/>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadShayan8401&bg_color=0d1117&color=6c8fff&line=a78bfa&point=38bdf8&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=MuhammadShayan8401&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+## 🌱 Current Learning Roadmap
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+```mermaid
+graph LR
+    A[LLMs] --> B[LangChain]
+    B --> C[AI Agents]
+    C --> D[Vector Databases]
+    D --> E[MLOps]
+    E --> F[Docker]
+    F --> G[FastAPI]
+    G --> H[ONNX]
+    H --> I[Cloud Deployment]
+```
+
+</div>
+
+| Area | Focus |
+|---|---|
+| 🧩 **LLMs** | Prompt design, context management, and applied use cases |
+| 🔗 **LangChain** | Chaining tools and retrieval for agentic workflows |
+| 🤖 **AI Agents** | Autonomous task execution and tool-calling patterns |
+| 🗂️ **Vector Databases** | Embedding storage and semantic search at scale |
+| ⚙️ **MLOps** | Reproducible training, versioning, and monitoring |
+| 🐳 **Docker** | Containerizing ML services for consistent deployment |
+| ⚡ **FastAPI** | High-performance async APIs for model serving |
+| 🔄 **ONNX** | Cross-framework model portability and optimization |
+| ☁️ **Cloud Deployment** | Shipping models and apps to production environments |
+
+---
+
+## 🏆 Achievements
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🚀 Shipped multiple **deployed AI applications** end-to-end, from model to production UI
+- 🏥 Built diagnostic-grade **Healthcare AI** systems (pneumonia + skin cancer detection)
+- 🎨 Delivered a full **generative Computer Vision** pipeline (segmentation → depth → diffusion)
+
+</td>
+<td width="50%" valign="top">
+
+- 📊 Designed **interactive analytics dashboards** used for real-time decision-making
+- 🌐 Maintained an active presence with **open-source** repositories and solutions
+- 🔬 Applied **research-grade techniques** (custom ANN heads, LayerNorm tuning) in production code
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Open to Collaborate
+
+<div align="center">
+
+I'm actively looking to collaborate on:
+
+**Machine Learning** &nbsp;•&nbsp; **Research** &nbsp;•&nbsp; **Healthcare AI** &nbsp;•&nbsp; **Computer Vision** &nbsp;•&nbsp; **Generative AI** &nbsp;•&nbsp; **Data Analytics**
+
+If you're working on something in these spaces — or just want to talk shop — my inbox is open.
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shayan-portfolio-eight.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shayan-ahmed-05b847281)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShayan8401)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shayan.8401@gmail.com)
+[![LeetCode Solutions](https://img.shields.io/badge/LeetCode%20Solutions-1F1F1F.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShayan8401/leetcode-solutions)
 
 </div>
 
 ---
 
 <div align="center">
+
+### Thanks for stopping by! 🙌
+
+If something here caught your eye, a ⭐ on one of the repos above always makes my day.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:6c8fff,100:0d1117&height=120&section=footer" />
 
