@@ -291,26 +291,37 @@ A full-stack analytics application that models and predicts disease outbreak tre
 
 ---
 
-## 📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuhammadShayan8401&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShayan8401&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShayan8401&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShayan8401&theme=tokyonight&hide_border=true" height="180"/>
+<br/><br/>
 
-<br/>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadShayan8401&bg_color=0d1117&color=6c8fff&line=a78bfa&point=38bdf8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadShayan8401&bg_color=0d1117&color=6c8fff&line=a78bfa&point=38bdf8&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/><br/>
 
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadShayan8401&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadShayan8401/MuhammadShayan8401/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadShayan8401/MuhammadShayan8401/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MuhammadShayan8401/MuhammadShayan8401/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
-
----
 
 ## 🌱 Current Learning Roadmap
 
