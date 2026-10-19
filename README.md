@@ -40,7 +40,7 @@ class Shayan:
         self.university = "Sir Syed University of Engineering & Technology"
         self.degree     = "B.S. Software Engineering, Class of 2027"
         self.location   = "Karachi, Pakistan"
-        self.focus      = ["Machine Learning", "Deep Learning", "Computer Vision", "Generative AI", "Healthcare AI"]
+        self.focus      = ["Machine Learning", "Deep Learning", "Computer Vision", "Generative AI"]
         self.learning   = ["LLMs", "LangChain", "AI Agents", "MLOps", "Cloud Deployment"]
 
     def philosophy(self):
