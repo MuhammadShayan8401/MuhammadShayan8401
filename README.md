@@ -148,7 +148,7 @@ An end-to-end generative interior-design platform that transforms a photo of any
 
 I'm actively looking to collaborate on:
 
-**Machine Learning** &nbsp;•&nbsp; **Research** &nbsp;•&nbsp; **Healthcare AI** &nbsp;•&nbsp; **Computer Vision** &nbsp;•&nbsp; **Generative AI** &nbsp;•&nbsp; **Data Analytics**
+**Machine Learning** &nbsp;•&nbsp; **Research** &nbsp;•&nbsp; **Computer Vision** &nbsp;•&nbsp; **Generative AI** &nbsp;•&nbsp; **Data Analytics**
 
 If you're working on something in these spaces — or just want to talk shop — my inbox is open.
 
