@@ -16,7 +16,7 @@
 
 <!-- Contact buttons — update links if your handles change -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shayan-portfolio-eight.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shayan-ahmed-05b847281)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shayan-ahmed8401)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shayan_isalive)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shayan.8401@gmail.com)
 [![LeetCode Solutions](https://img.shields.io/badge/LeetCode%20Solutions-1F1F1F.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShayan8401/leetcode-solutions)
