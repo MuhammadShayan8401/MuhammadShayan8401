@@ -69,7 +69,7 @@ An end-to-end generative interior-design platform that transforms a photo of any
 
 **Web Development:** <img src="https://skillicons.dev/icons?i=react,tailwind,html,threejs,flask,django,nodejs" />
 
-**Databases: <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+**Database:** <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
 **Tools & Platforms:** <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,vercel" />
 
