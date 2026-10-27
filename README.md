@@ -12,7 +12,7 @@
 
 <p><i>Software Engineering Student (SSUET '27) &bull; Turning AI Research into Real-World Products</i></p>
 
-<br/><br/>
+<br/>
 
 <!-- Contact buttons — update links if your handles change -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shayan-portfolio-eight.vercel.app/)
@@ -21,16 +21,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shayan.8401@gmail.com)
 [![LeetCode Solutions](https://img.shields.io/badge/LeetCode%20Solutions-1F1F1F.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShayan8401/leetcode-solutions)
 
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=MuhammadShayan8401&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
-![GitHub followers](https://img.shields.io/github/followers/MuhammadShayan8401?label=Followers&style=social)
-
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
 ```python
 class Shayan:
@@ -51,7 +46,7 @@ shayan = Shayan()
 
 ---
 
-### 🚀 Flagship Project
+### Flagship Project
 
 <div align="center">
 
@@ -59,7 +54,7 @@ shayan = Shayan()
 <tr>
 <td width="100%">
 
-<h3 align="center">🏡 Aeterna AI Interior Designer &nbsp;<img src="https://img.shields.io/badge/⭐-Featured%20Project-6C8FFF?style=flat-square"/></h3>
+<h3 align="center"> Aeterna AI Interior Designer &nbsp;<img src="https://img.shields.io/badge/⭐-Featured%20Project-6C8FFF?style=flat-square"/></h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/SegFormer-A78BFA?style=flat-square"/>
@@ -93,7 +88,7 @@ An end-to-end generative interior-design platform that transforms a photo of any
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -126,23 +121,15 @@ An end-to-end generative interior-design platform that transforms a photo of any
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadShayan8401&theme=tokyonight&hide_border=true&border_radius=8" height="150"/>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadShayan8401/MuhammadShayan8401/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadShayan8401/MuhammadShayan8401/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MuhammadShayan8401/MuhammadShayan8401/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
 </div>
 
-## 🤝 Open to Collaborate
+## Open to Collaborate
 
 <div align="center">
 
@@ -150,16 +137,6 @@ I'm actively looking to collaborate on:
 
 **Machine Learning** &nbsp;•&nbsp; **Research** &nbsp;•&nbsp; **Computer Vision** &nbsp;•&nbsp; **Generative AI** &nbsp;•&nbsp; **Data Analytics**
 
-If you're working on something in these spaces — or just want to talk shop — my inbox is open.
-
 </div>
-
----
-
-### Thanks for stopping by! 🙌
-
-If something here caught your eye, a ⭐ on one of the repos above always makes my day.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:6c8fff,100:0d1117&height=120&section=footer" />
 
 </div>
