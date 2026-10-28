@@ -34,45 +34,10 @@ class Shayan:
 
 shayan = Shayan()
 ```
-
-## Featured Project
-
-<div align="center">
-
-### Aeterna AI Interior Designer
-
-<img src="https://img.shields.io/badge/⭐-Featured%20Project-6C8FFF?style=flat-square" />
-
-<img src="https://img.shields.io/badge/SegFormer-A78BFA?style=flat-square" />
-<img src="https://img.shields.io/badge/MiDaS-6C8FFF?style=flat-square" />
-<img src="https://img.shields.io/badge/Stable%20Diffusion-38BDF8?style=flat-square" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-
-An end-to-end generative interior-design platform that transforms a photo of any room into a redesigned space. Combines **semantic segmentation** (SegFormer), **depth estimation** (MiDaS), and **Stable Diffusion img2img** generation behind a FastAPI backend with JWT authentication, MongoDB persistence, and a luxury editorial React UI.
-
-**Highlights:** Empty-room generation pipeline · History and revisit system · User/admin dashboards · Async-safe preference ANN with five output heads
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadShayan8401/Aeterna-AI-Interior-Designer)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://aeterna-ai-interior-designer.vercel.app/)
-
-</div>
-
 ## Tech Stack
 
 <div align="center">
-
-**Languages:** <img src="https://skillicons.dev/icons?i=python,java,js" />
-
-**AI / Machine Learning:** <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-
-**Web Development:** <img src="https://skillicons.dev/icons?i=react,tailwind,html,threejs,flask,django,nodejs" />
-
-**Database:** <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
-**Tools & Platforms:** <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,vercel" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,js,pytorch,tensorflow,sklearn,opencv,react,tailwind,html,threejs,flask,django,nodejs,mongodb,mysql,postgres,git,github,docker,linux,vscode,postman,figma,vercel" />
 </div>
 
 ## GitHub Stats
