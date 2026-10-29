@@ -50,8 +50,8 @@ shayan = Shayan()
 <div align="center">
 <hr width="40%">
 
-"نہیں نگاہ میں منزل تو جستجو ہی سہی"
+<strong>"نہیں نگاہ میں منزل تو جستجو ہی سہی"</strong>
 
-~ فیض احمد فیض
-</div>
+<strong>~ فیض احمد فیض</strong>
+
 </div>
