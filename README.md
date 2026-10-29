@@ -46,12 +46,11 @@ shayan = Shayan()
 
 </div>
 
-## Open to Collaborate
-
 <div align="center">
+<hr width="40%">
 
-I'm actively looking to collaborate on:
+"نہیں نگاہ میں منزل تو جستجو ہی سہی"
 
-**Machine Learning** · **Research** · **Computer Vision** · **Generative AI** · **Data Analytics**
-
+~ فیض احمد فیض
+</div>
 </div>
