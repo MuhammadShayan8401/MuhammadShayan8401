@@ -11,10 +11,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://shayan-portfolio-eight.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shayan-ahmed8401/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shayan.8401@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mshayan8401)
 
 </div>
 
-## About Me
+## ~/ whoami
 
 ```python
 class Shayan:
@@ -32,13 +33,13 @@ class Shayan:
 
 shayan = Shayan()
 ```
-## Tech Stack
+## ~/ toolbox
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,pytorch,tensorflow,sklearn,opencv,react,tailwind,html,threejs,flask,django,nodejs,mongodb,mysql,postgres,git,github,docker,linux,vscode,postman,figma,vercel" />
 </div>
 
-## GitHub Stats
+## ~/ the numbers
 
 <div align="center">
 
