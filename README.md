@@ -49,10 +49,7 @@ shayan = Shayan()
 
 <div align="center">
   <hr width="30%">
-  <br>
   <strong>نہیں نگاہ میں منزل تو جستجو ہی سہی</strong>
   <br><br>
   <sub>— فیض احمد فیض</sub>
-  <br>
-  <hr width="30%">
 </div>
